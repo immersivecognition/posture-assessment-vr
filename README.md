@@ -19,6 +19,8 @@ Assess posture in one of three conditions.
 * No vision (HMD goes dark, ask participant to close their eyes too).
 * Oscillating room. Room pitch rotation oscillates at a amplitude and period that you specify.
 
+The task measures the head position using the built-in tracking of the HMD, which has [high accuracy](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5439658/) (depending on the HMD used).
+
 Built with [Unity Experiment Framework](https://github.com/immersivecognition/unity-experiment-framework).
 
 <p align="center">
