@@ -19,6 +19,8 @@ Assess posture in one of three conditions.
 * No vision (HMD goes dark, ask participant to close their eyes too).
 * Oscillating room. Room pitch rotation oscillates at a amplitude and period that you specify.
 
+Built with [Unity Experiment Framework](https://github.com/immersivecognition/unity-experiment-framework).
+
 <p align="center">
   <img src="media/room.png">
   
