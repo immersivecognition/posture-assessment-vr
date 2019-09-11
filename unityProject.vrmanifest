@@ -5,7 +5,7 @@
       "app_key": "application.generated.unity.psatvr.exe",
       "launch_type": "url",
       "url": "steam://launch/",
-      "action_manifest_path": "C:\\Users\\jack\\work\\psat-vr\\actions.json",
+      "action_manifest_path": "C:\\Users\\jack\\work\\posture-assessment-vr\\actions.json",
       "strings": {
         "en_us": {
           "name": "psat-vr [Testing]"
