@@ -48,5 +48,5 @@ First download the latest [Release Build](https://github.com/immersivecognition/
 Info:
 
 This project is built with SteamVR. It should work with any SteamVR compatible headset and SteamVR installed.
-You can change some parameters by modifying the file: "posture-assessment-vr_Data/StreamingAssets/psat-vr.json".
+You can change some parameters by modifying the file: `posture-assessment-vr_Data/StreamingAssets/psat-vr.json`.
 Data output is just raw movement data. Calculate path length by summing the point-to-point distances observed in head movement.
