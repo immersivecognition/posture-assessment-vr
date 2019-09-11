@@ -53,7 +53,7 @@ Data output is just raw movement data. Calculate path length by summing the poin
 
 ## Example R processing script
 
-Here is a commented example of an R script (written in Tidyverse style) that will process the data from this task, calculating the path length (a measure of stability - lower is better).
+Here is a commented example of an R script (written in [Tidyverse](https://www.tidyverse.org/) style) that will process the data from this task, calculating the path length (a measure of stability - lower is better).
 
 ```r
 library(tidyverse)
