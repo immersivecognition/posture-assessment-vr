@@ -27,9 +27,9 @@ Assess posture in one of three conditions.
 
 ## How to use
 
-This is the repository for the Unity project source code; clone/fork and edit as necessary in Unity version `2018.1.X`. If you just want to download and run the assessment, see below.
+This is the repository for the Unity project source code; clone/fork and edit as necessary in Unity version `2018.1.X`.
 
-First download the latest [Release Build](https://github.com/immersivecognition/posture-assessment-vr/releases/tag/2) and extract the zip file to your Windows PC.
+If you just want to download and run the assessment, first download the latest [Release Build](https://github.com/immersivecognition/posture-assessment-vr/releases/tag/2) and extract the zip file to your Windows PC.
 
 1. Make sure you have a SteamVR compatible headset set up on your PC.
 2. Put participant in a headset standing in the center of your VR area.
