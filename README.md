@@ -35,8 +35,8 @@ First download the latest [Release Build](https://github.com/immersivecognition/
 4. Create a new participant list (or select existing) - data will be stored next to wherever you put this list.
 5. Enter the participant details.
 6. From here you can perform measurements:
-    * Ask participant to stand with controllers in hands, hold them out horizontally
-    * Height and armspan will get added to the participant's row in the participant list
+    * If you want height/armspan measures, ask participant to stand with controllers in hands, hold them out horizontally.
+    * Click the buttons to record height/armspan. Height and armspan will be added to the participant's row in the participant list.
     * Click buttons on-screen to perform the various assessments as needed.
 
 <p align="center">
