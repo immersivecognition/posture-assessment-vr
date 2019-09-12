@@ -24,9 +24,17 @@ The task measures the head position using the built-in tracking of the HMD, whic
 Built with [Unity Experiment Framework](https://github.com/immersivecognition/unity-experiment-framework).
 
 <p align="center">
-  <img src="media/room.png">
+  <img src="media/room.png" width = "300">
   
   <i>The virtual room used for the assessments</i>
+</p>
+
+This software has been used in the [Brookes et al. 2019](https://link.springer.com/article/10.3758%2Fs13428-019-01242-0) where we found significant differences between age groups and between the vision and oscillating room condition.
+
+<p align="center">
+  <img src="media/publication_graph.png" width = "400">
+  
+  <i>Fig. 7 from Brookes et al. 2019</i>
 </p>
 
 ## How to use
