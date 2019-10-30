@@ -41,18 +41,18 @@ This software has been used in the [Brookes et al. 2019](https://link.springer.c
 
 This is the repository for the Unity project source code; clone/fork and edit as necessary in Unity version `2018.1.X`.
 
-If you just want to download and run the assessment, first download the latest [Release Build](https://github.com/immersivecognition/posture-assessment-vr/releases/tag/2) and extract the zip file to your Windows PC.
+If you just want to download and run the assessment, first download the latest [Release Build](https://github.com/immersivecognition/posture-assessment-vr/releases/tag/2), extract the zip file to your Windows PC, and follow the instructions below:
 
 1. Make sure you have a SteamVR compatible headset set up on your PC.
 2. Put participant in a headset standing in the center of your VR area.
-3. Launch the SwayAssessment .exe
+3. Launch `posture-assessment-vr.exe`
 4. Create a new participant list (or select existing) - data will be stored next to wherever you put this list.
 5. Enter the participant details.
 6. Press Start.
 7. From here you can perform measurements:
     * If you want height/armspan measures, ask participant to stand with controllers in hands, hold them out horizontally.
     * Click the buttons to record height/armspan. Height and armspan will be added to the participant's row in the participant list.
-    * Click buttons on-screen to perform the various assessments as needed.
+    * Click buttons on-screen to perform the various assessments as needed. Tell participants to look at the fixation cross.
 
 <p align="center">
   <img src="media/ui.png" width="200">
